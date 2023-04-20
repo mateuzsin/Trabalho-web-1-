@@ -49,3 +49,105 @@
 .buttonNav:hover{
    border-color:  red;
 }
+
+/* Estilização das perguntas frequentes */
+.faq-title {
+  font-size: 36px;
+  margin-top: 50px;
+}
+
+.faq-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.faq-item {
+  margin-top: 30px;
+}
+
+.faq-question {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.faq-answer {
+  font-size: 18px;
+  line-height: 1.5;
+  margin: 0;
+}
+
+.mainfaq {
+  max-width: 1000px; /* define a largura máxima do conteúdo */
+  margin: 0 auto; /* centraliza o conteúdo horizontalmente */
+  padding: 20px; /* adiciona espaço interno ao redor do conteúdo */
+  border: 1px solid black; /* adiciona uma borda de 1 pixel sólida preta */
+}
+
+/* Fim da estilização das perguntas frequentes */
+
+/* Personalização da página de suporte */
+.main-support {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.support-title {
+    font-size: 36px;
+    margin-top: 50px;
+    color: #4B0082;
+}
+
+.support-text {
+    font-size: 18px;
+    line-height: 1.5;
+    margin: 0;
+    color: #696969;
+}
+
+.support-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.support-item {
+    margin-top: 30px;
+    border-bottom: 1px solid #DCDCDC;
+    padding-bottom: 20px;
+}
+
+.support-question {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #4B0082;
+}
+
+.support-answer {
+    font-size: 18px;
+    line-height: 1.5;
+    margin: 0;
+    color: #696969;
+}
+
+.main-support {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+.suporte-main {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid black;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+/* Fim da personalização da página de suporte */
